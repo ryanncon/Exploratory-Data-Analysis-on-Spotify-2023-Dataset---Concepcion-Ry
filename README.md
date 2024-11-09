@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-on-Spotify-2023-Dataset---Concepcion-Ry
+# Exploratory-Data-Analysis-on-Spotify-2023-Dataset
 This repository contains the Exploratory Data Analysis (EDA) of the Spotify dataset, which aims to explore the data's features and relationships to gain insights into the tracks.
 ## Table of Contents
 * Objective
@@ -74,7 +74,9 @@ The Exploratory Data Analysis (EDA) of the Spotify dataset offered a thorough un
     - README file edits
     - File uploaded edits
 - 0.2
-  - final README file edits
+  - README file edits
+  - 0.2.1
+    - Repository name edit
 
 ## Acknowledgement
 - Youtube
