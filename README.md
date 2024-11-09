@@ -20,7 +20,7 @@ This repository contains the Exploratory Data Analysis (EDA) of the Spotify data
 Exploratory Data Analysis (EDA) of Spotify's Most Streamed Songs examines the characteristics and relationships within the dataset to uncover insights about the most streamed songs. The dataset contains 953 entries and 24 columns, which include song attributes, artist details, and streaming metrics.
 ## Included Materials
 - **Spotify Dataset.ipynb** - ipynb file containing the data analysis
-- **spotify-2023.csv** - excel file containing the dataset of spotify tracks
+- **spotify-2023-Concepcion,R.csv** - excel file containing the dataset of spotify tracks
 - **README.md** - project documentation
 ## Dependencies
 * **Pandas**: Data manipulation and analysis
@@ -77,6 +77,7 @@ The Exploratory Data Analysis (EDA) of the Spotify dataset offered a thorough un
   - README file edits
   - 0.2.1
     - Repository name edit
+    - Final README file edit
 
 ## Acknowledgement
 - Youtube
